@@ -97,6 +97,9 @@ Install this project with:
 
   cd Hello-Backend
   bundle install
+  rails db:create
+  rails db:migrate
+  rails db:seed
 
 ### Usage
 
